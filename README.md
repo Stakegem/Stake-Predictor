@@ -31,7 +31,8 @@
 
 ## 🎥 Demo Video
 
-![Best working Stake Predictor in 2025 | Best Stake mines & crash predictor 100% Accuracy](https://youtu.be/Dybssevrsy4?feature=shared)
+![](https://youtu.be/Dybssevrsy4?feature=shared)
+[![Best working Stake Predictor in 2025 | Best Stake mines & crash predictor 100% Accuracy](http://img.youtube.com/vi/Dybssevrsy4/1.jpg)](https://youtu.be/Dybssevrsy4 "Install your ViperPro Casino Script")
 
 ---
 
