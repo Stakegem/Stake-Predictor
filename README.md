@@ -31,7 +31,7 @@
 
 ## 🎥 Demo Video
 
-![Best working Stake Predictor in 2025 | Best Stake mines & crash predictor 100% Accuracy](https://www.youtube.com/watch?v=Dybssevrsy4)
+![Best working Stake Predictor in 2025 | Best Stake mines & crash predictor 100% Accuracy](https://youtu.be/Dybssevrsy4?feature=shared)
 
 ---
 
