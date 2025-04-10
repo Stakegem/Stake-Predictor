@@ -23,9 +23,9 @@
 
 ## 🖼️ Screenshots
 
-<img src="https://i.ibb.co/ZQDhhNz/Screenshot-2025-04-09-152504.png" alt="Stake Predictor UI" width="600"/>
+<img src="https://i.ibb.co/ZQDhhNz/Screenshot-2025-04-09-152504.png" alt="Stake Crash Predictor" width="600"/>
 
-<img src="https://i.ibb.co/jk6KFQX9/Screenshot-2025-04-09-152524.png" alt="Profit Dashboard" width="600"/>
+<img src="https://i.ibb.co/jk6KFQX9/Screenshot-2025-04-09-152524.png" alt="Stake Mines Predictor" width="600"/>
 
 ---
 
